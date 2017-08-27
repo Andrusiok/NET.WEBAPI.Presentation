@@ -1,0 +1,8 @@
+C:\Users\angre\Documents\Собеседование\NET.Lab\Test\bin\Debug\Test.exe.config
+C:\Users\angre\Documents\Собеседование\NET.Lab\Test\bin\Debug\Test.exe
+C:\Users\angre\Documents\Собеседование\NET.Lab\Test\bin\Debug\Test.pdb
+C:\Users\angre\Documents\Собеседование\NET.Lab\Test\bin\Debug\Customer.dll
+C:\Users\angre\Documents\Собеседование\NET.Lab\Test\bin\Debug\Customer.pdb
+C:\Users\angre\Documents\Собеседование\NET.Lab\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\angre\Documents\Собеседование\NET.Lab\Test\obj\Debug\Test.exe
+C:\Users\angre\Documents\Собеседование\NET.Lab\Test\obj\Debug\Test.pdb

@@ -1,0 +1,5 @@
+C:\Users\angre\Documents\Собеседование\NET.Lab\Customer\bin\Debug\Customer.dll
+C:\Users\angre\Documents\Собеседование\NET.Lab\Customer\bin\Debug\Customer.pdb
+C:\Users\angre\Documents\Собеседование\NET.Lab\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+C:\Users\angre\Documents\Собеседование\NET.Lab\Customer\obj\Debug\Customer.dll
+C:\Users\angre\Documents\Собеседование\NET.Lab\Customer\obj\Debug\Customer.pdb
